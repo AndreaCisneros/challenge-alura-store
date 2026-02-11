@@ -25,6 +25,7 @@ Con el fin de determinar cuál tienda representa la opción más adecuada para s
 - **Python**
 - **Pandas** (carga y manipulación de datos)
 - **Matplotlib** (visualización de resultados)
+- **Seaborn** (visualización de resultados)
 
 ---
 
